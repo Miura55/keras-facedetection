@@ -1,6 +1,7 @@
 # keras-faceDetection
 
 This repositry for face detection program using keras.
+(Refarence: http://wisteriahill.sakura.ne.jp/CMS/WordPress/2019/06/29/raspberry-pi-face-emotion-classification/)
 
 ## OS/Soft Ware
 - Raspbian 10(buster)
